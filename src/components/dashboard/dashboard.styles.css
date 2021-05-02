@@ -1,0 +1,62 @@
+.dashboard {
+	height: 600px;
+	flex: 0.8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.level {
+	margin-right: 20px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	height: 200px;
+	width: 300px;
+}
+.circle_button {
+	display: block;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.greenHover:hover {
+	background-color: green;
+}
+.green {
+	background-color: green;
+}
+.redHover:hover {
+	background-color: red;
+}
+.red {
+	background-color: red;
+}
+.blackHover:hover {
+	background-color: black;
+}
+.black {
+	background-color: black;
+}
+.yellowHover:hover {
+	background-color: yellow;
+}
+.yellow {
+	background-color: yellow;
+}
+.blueHover:hover {
+	background-color: blue;
+}
+.blue {
+	background-color: blue;
+}
+.greyHover:hover {
+	background-color: grey;
+}
+.grey {
+	background-color: grey;
+}
